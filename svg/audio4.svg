@@ -1,0 +1,66 @@
+<svg width="258" height="52" viewBox="0 0 258 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_407_77)">
+<rect width="258" height="52" rx="24" fill="white" fill-opacity="0.12"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M48 26C48 37.0457 39.0458 46 28.0001 46C16.9544 46 8 37.0457 8 26C8 14.9544 16.9544 6 28.0001 6C39.0458 6 48 14.9544 48 26Z" fill="url(#paint0_linear_407_77)"/>
+<path d="M34 25.134C34.6667 25.5189 34.6667 26.4811 34 26.866L25.75 31.6292C25.0833 32.0141 24.25 31.533 24.25 30.7632L24.25 21.2369C24.25 20.4671 25.0833 19.9859 25.75 20.3708L34 25.134Z" fill="white"/>
+<rect x="64" y="19" width="2" height="14" rx="1" fill="#888888"/>
+<rect x="164" y="18" width="2" height="16" rx="1" fill="#888888"/>
+<rect x="60" y="20" width="2" height="12" rx="1" fill="#888888"/>
+<rect x="56" y="23" width="2" height="6" rx="1" fill="#888888"/>
+<rect x="108" y="14" width="2" height="24" rx="1" fill="#888888"/>
+<rect x="216" y="19" width="2" height="14" rx="1" fill="#888888"/>
+<rect x="240" y="24.0001" width="2" height="4" rx="1" fill="#888888"/>
+<rect x="168" y="16" width="2" height="20" rx="1" fill="#888888"/>
+<rect x="112" y="17" width="2" height="18" rx="1" fill="#888888"/>
+<rect x="220" y="20" width="2" height="12" rx="1" fill="#888888"/>
+<rect x="72" y="20" width="2" height="12" rx="1" fill="#888888"/>
+<rect x="80" y="18" width="2" height="16" rx="1" fill="#888888"/>
+<rect x="76" y="19" width="2" height="14" rx="1" fill="#888888"/>
+<rect x="232" y="22" width="2" height="8" rx="1" fill="#888888"/>
+<rect x="236" y="23" width="2" height="6" rx="1" fill="#888888"/>
+<rect x="160" y="17" width="2" height="18" rx="1" fill="#888888"/>
+<rect x="172" y="14" width="2" height="24" rx="1" fill="#888888"/>
+<rect x="116" y="19" width="2" height="14" rx="1" fill="#888888"/>
+<rect x="224" y="19" width="2" height="14" rx="1" fill="#888888"/>
+<rect x="68" y="21" width="2" height="10" rx="1" fill="#888888"/>
+<rect x="176" y="17" width="2" height="18" rx="1" fill="#888888"/>
+<rect x="180" y="15" width="2" height="22" rx="1" fill="#888888"/>
+<rect x="120" y="20" width="2" height="12" rx="1" fill="#888888"/>
+<rect x="228" y="20" width="2" height="12" rx="1" fill="#888888"/>
+<rect x="88" y="20" width="2" height="12" rx="1" fill="#888888"/>
+<rect x="84" y="19" width="2" height="14" rx="1" fill="#888888"/>
+<rect x="100" y="18" width="2" height="16" rx="1" fill="#888888"/>
+<rect x="208" y="16" width="2" height="20" rx="1" fill="#888888"/>
+<rect x="152" y="21" width="2" height="10" rx="1" fill="#888888"/>
+<rect x="104" y="16" width="2" height="20" rx="1" fill="#888888"/>
+<rect x="212" y="17" width="2" height="18" rx="1" fill="#888888"/>
+<rect x="156" y="19" width="2" height="14" rx="1" fill="#888888"/>
+<rect x="184" y="14" width="2.00001" height="24" rx="1" fill="#888888"/>
+<rect x="128" y="13" width="2" height="26" rx="1" fill="#888888"/>
+<rect x="124" y="17" width="2" height="18" rx="1" fill="#888888"/>
+<rect x="200" y="16" width="2" height="20" rx="1" fill="#888888"/>
+<rect x="144" y="16" width="2" height="20" rx="1" fill="#888888"/>
+<rect x="96" y="21" width="2" height="10" rx="1" fill="#888888"/>
+<rect x="92" y="22" width="2" height="8" rx="1" fill="#888888"/>
+<rect x="204" y="19" width="2" height="14" rx="1" fill="#888888"/>
+<rect x="148" y="19" width="2" height="14" rx="1" fill="#888888"/>
+<rect x="196" y="15" width="2" height="22" rx="1" fill="#888888"/>
+<rect x="192" y="13" width="2.00001" height="26" rx="1" fill="#888888"/>
+<rect x="188" y="12" width="2.00001" height="28" rx="1" fill="#888888"/>
+<rect x="132" y="12" width="2.00001" height="28" rx="1" fill="#888888"/>
+<rect x="136" y="11" width="2.00001" height="30" rx="1" fill="#888888"/>
+<rect x="140" y="13" width="2" height="26" rx="1" fill="#888888"/>
+</g>
+<defs>
+<filter id="filter0_b_407_77" x="-50" y="-50" width="358" height="152" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="25"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_407_77"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_407_77" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_407_77" x1="0.870657" y1="21.7925" x2="29.0988" y2="56.699" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0958FA"/>
+<stop offset="1" stop-color="#09FA32"/>
+</linearGradient>
+</defs>
+</svg>
